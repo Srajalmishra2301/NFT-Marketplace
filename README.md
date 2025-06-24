@@ -22,3 +22,4 @@ To empower creators and collectors by building a trustless, open marketplace whe
 
 ## Contract Details
 *Contract address, ABI, and deployment transaction hash to be added manually by Judy.*
+<img width="1512" alt="Screenshot 2025-06-25 at 12 37 22 AM" src="https://github.com/user-attachments/assets/7ca031b3-10fe-47df-8695-fb9f2d9ad1dc" />
